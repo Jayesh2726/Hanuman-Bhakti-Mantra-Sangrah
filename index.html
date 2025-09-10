@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>हनुमान भक्ती मंत्रसंग्रह</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+  <style>
+    body {
+      background: linear-gradient(135deg, #FF512F, #DD2476, #FFB75E, #ED213A);
+      background-attachment: fixed;
+      overflow-x: hidden;
+      perspective: 1200px; /* 3D effect root */
+    }
+    .vine-lines {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .vine path {
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: draw 12s linear infinite;
+    }
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+
+    /* 3D Card */
+    .card-3d {
+      transform-style: preserve-3d;
+      transform: rotateX(10deg) rotateY(-5deg);
+      transition: all 0.5s ease;
+    }
+    .card-3d:hover {
+      transform: rotateX(0deg) rotateY(0deg) scale(1.07);
+      box-shadow: 0 25px 50px rgba(0,0,0,0.6);
+    }
+    /* glowing border */
+    .glow {
+      border: 2px solid rgba(255, 223, 0, 0.7);
+      box-shadow: 0 0 30px rgba(255, 200, 0, 0.8);
+    }
+  </style>
+</head>
+<body class="text-white relative">
+
+  <!-- Vines Background -->
+  <svg class="vine-lines" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1920 1080">
+    <path class="vine" d="M0,300 C300,500 600,100 900,400 S1500,700 1920,300" stroke="rgba(255,255,255,0.2)" stroke-width="3" fill="none"/>
+    <path class="vine" d="M0,600 C400,800 800,300 1200,600 S1600,900 1920,600" stroke="rgba(255,255,255,0.25)" stroke-width="2" fill="none"/>
+    <path class="vine" d="M0,900 C500,1100 1000,500 1500,900 S1800,1200 1920,900" stroke="rgba(255,255,255,0.15)" stroke-width="4" fill="none"/>
+  </svg>
+
+  <!-- Hero Section -->
+  <section class="relative flex items-center justify-center h-screen text-center px-6 z-10">
+    <div class="transform hover:scale-105 transition duration-500">
+      <h1 class="text-4xl md:text-5xl font-bold drop-shadow-[0_0_20px_rgba(255,215,0,0.9)] animate-pulse text-yellow-300">
+  𓍙𓍙 जय हनुमान 𓍙𓍙
+</h1>
+
+      <p class="mt-6 text-lg md:text-xl max-w-xl mx-auto text-yellow-100 drop-shadow-lg">
+        Welcome to the Devotional Space. Scroll down to explore Mantras, Stotras, and more divine content.
+      </p>
+      <a href="#cards" class="mt-8 inline-block bg-yellow-400 text-black font-bold px-8 py-4 rounded-2xl shadow-2xl hover:bg-yellow-300 hover:shadow-[0_0_30px_rgba(255,223,0,1)] hover:scale-110 transition">
+        Explore ✨
+      </a>
+    </div>
+  </section>
+
+  <!-- Cards Section -->
+  <section id="cards" class="py-20 px-6 md:px-16 bg-black/50 backdrop-blur-xl rounded-t-[3rem] relative z-10">
+    <h2 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-12 text-yellow-300 drop-shadow-[0_0_10px_rgba(255,223,0,1)]">
+  🌸 Divine Collections 🌸
+</h2>
+
+
+    <div class="grid gap-12 sm:grid-cols-2 lg:grid-cols-3">
+      
+      <!-- Card 1 -->
+      <a href="mantra.html?id=hanuman-chalisa">
+        <div data-aos="zoom-in" class="p-6 bg-gradient-to-br from-red-600/60 to-yellow-400/40 rounded-3xl shadow-xl glow card-3d">
+          <h3 class="text-2xl font-bold mb-2 text-yellow-200">श्री हनुमान चालिसा</h3>
+          <p class="text-sm text-yellow-100">The most popular prayer dedicated to Lord Hanuman, recited daily for strength and devotion.</p>
+        </div>
+      </a>
+
+      <!-- Card 2 -->
+      <a href="mantra.html?id=bajrang-baan">
+        <div data-aos="zoom-in" data-aos-delay="150" class="p-6 bg-gradient-to-br from-pink-600/60 to-yellow-500/40 rounded-3xl shadow-xl glow card-3d">
+          <h3 class="text-2xl font-bold mb-2 text-yellow-200">बजरंग बाण</h3>
+          <p class="text-sm text-yellow-100">A powerful prayer to remove negative energies and obstacles in life.</p>
+        </div>
+      </a>
+
+      <!-- Card 3 -->
+      <a href="mantra6.html">
+        <div data-aos="zoom-in" data-aos-delay="300" class="p-6 bg-gradient-to-br from-orange-600/60 to-red-400/40 rounded-3xl shadow-xl glow card-3d">
+          <h3 class="text-2xl font-bold mb-2 text-yellow-200">हनुमान मंगल</h3>
+          <p class="text-sm text-yellow-100">Hanuman Mangal Kavach removes fear and obstacles, blessing life with strength and protection.</p>
+        </div>
+      </a>
+
+      <!-- Card 4 -->
+      <a href="mantra3.html">
+        <div data-aos="zoom-in" data-aos-delay="450" class="p-6 bg-gradient-to-br from-purple-700/60 to-pink-500/40 rounded-3xl shadow-xl glow card-3d">
+          <h3 class="text-2xl font-bold mb-2 text-yellow-200">हनुमान नामस्मरण</h3>
+          <p class="text-sm text-yellow-100">Reciting Hanuman’s 108 names ensures protection from hardships, planetary troubles, and brings peace and success.</p>
+        </div>
+      </a>
+
+      <!-- Card 5 -->
+      <a href="mantra5.html">
+        <div data-aos="zoom-in" data-aos-delay="600" class="p-6 bg-gradient-to-br from-amber-600/60 to-yellow-400/40 rounded-3xl shadow-xl glow card-3d">
+          <h3 class="text-2xl font-bold mb-2 text-yellow-200">हनुमान अष्टाक्षर</h3>
+          <p class="text-sm text-yellow-100">Hanuman Ashtak, composed by Tulsidas, praises Hanuman’s power to remove obstacles and bless devotees with confidence and peace.</p>
+        </div>
+      </a>
+
+      <!-- Card 6 -->
+      <a href="mantra7.html">
+        <div data-aos="zoom-in" data-aos-delay="750" class="p-6 bg-gradient-to-br from-red-700/60 to-orange-500/40 rounded-3xl shadow-xl glow card-3d">
+          <h3 class="text-2xl font-bold mb-2 text-yellow-200">हनुमान स्तोत्र</h3>
+          <p class="text-sm text-yellow-100">The stotra connects one with Hanuman’s divine energy, building resilience and spiritual growth.</p>
+        </div>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- AOS Animation JS -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({ duration: 1000, once: true });
+  </script>
+</body>
+</html>

@@ -1,0 +1,654 @@
+[
+  {
+    "sanskrit": "आञ्जनेय",
+    "japam": "ॐ आञ्जनेयाय नमः।",
+    "transliteration": "Om Anjaneyaya Namah",
+    "translation": "जो देवी अञ्जना के पुत्र हैं"
+  },
+  {
+    "sanskrit": "महावीर",
+    "japam": "ॐ महावीराय नमः।",
+    "transliteration": "Om Mahaviraya Namah",
+    "translation": "जो अति बलशाली एवं पराक्रमी हैं"
+  },
+  {
+    "sanskrit": "हनूमान्",
+    "japam": "ॐ हनुमते नमः।",
+    "transliteration": "Om Hanumate Namah",
+    "translation": "जो फूले हुये गालों वाले हैं"
+  },
+  {
+    "sanskrit": "मारुतात्मज",
+    "japam": "ॐ मारुतात्मजाय नमः।",
+    "transliteration": "Om Marutatmajaya Namah",
+    "translation": "जो पवन देव को अति प्रिय हैं"
+  },
+  {
+    "sanskrit": "तत्वज्ञानप्रद",
+    "japam": "ॐ तत्वज्ञानप्रदाय नमः।",
+    "transliteration": "Om Tatvajnanapradaya Namah",
+    "translation": "जो तत्वज्ञान प्रदान करने वाले हैं"
+  },
+  {
+    "sanskrit": "सीतादेवीमुद्राप्रदायक",
+    "japam": "ॐ सीतादेवीमुद्राप्रदायकाय नमः।",
+    "transliteration": "Om Sitadevimudrapradayakaya Namah",
+    "translation": "जो सीता माता को श्री राम जी की मुद्रिका प्रदान करने वाले हैं"
+  },
+  {
+    "sanskrit": "अशोकवनिकाच्छेत्ता",
+    "japam": "ॐ अशोकवनिकाच्छेत्रे नमः।",
+    "transliteration": "Om Ashokavanikachchhetre Namah",
+    "translation": "जो अशोक वन को नष्ट करने वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वमायाविभञ्जन",
+    "japam": "ॐ सर्वमायाविभञ्जनाय नमः।",
+    "transliteration": "Om Sarvamayavibhanjanaya Namah",
+    "translation": "जो भ्रम को नष्ट करने वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वबन्धविमोक्ता",
+    "japam": "ॐ सर्वबन्धविमोक्त्रे नमः।",
+    "transliteration": "Om Sarvabandhavimoktre Namah",
+    "translation": "जो समस्त प्रकार के बन्धनों से मुक्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "रक्षोविध्वंसकारक",
+    "japam": "ॐ रक्षोविध्वंसकारकाय नमः।",
+    "transliteration": "Om Rakshovidhvamsakarakaya Namah",
+    "translation": "जो राक्षसों का संहार करने वाले हैं"
+  },
+  {
+    "sanskrit": "परविद्यापरिहार",
+    "japam": "ॐ परविद्यापरिहाराय नमः।",
+    "transliteration": "Om Paravidyapariharaya Namah",
+    "translation": "जो शत्रुओं के विवेक का नाश करने वाले हैं"
+  },
+  {
+    "sanskrit": "परशौर्यविनाशन",
+    "japam": "ॐ परशौर्यविनाशनाय नमः।",
+    "transliteration": "Om Parashauryavinashanaya Namah",
+    "translation": "जो शत्रुओं के बल एवं शक्ति को हरने वाले हैं"
+  },
+  {
+    "sanskrit": "परमन्त्रनिराकर्ता",
+    "japam": "ॐ परमन्त्रनिराकर्त्रे नमः।",
+    "transliteration": "Om Paramantranirakartre Namah",
+    "translation": "जो केवल श्री राम मन्त्र का जाप करने वाले हैं"
+  },
+  {
+    "sanskrit": "परयन्त्रप्रभेदक",
+    "japam": "ॐ परयन्त्रप्रभेदकाय नमः।",
+    "transliteration": "Om Parayantraprabhedakaya Namah",
+    "translation": "जो शत्रुओं की योजना को विफल करने वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वग्रहविनाशी",
+    "japam": "ॐ सर्वग्रहविनाशिने नमः।",
+    "transliteration": "Om Sarvagrahavinashine Namah",
+    "translation": "जो समस्त ग्रहों के अशुभ प्रभाव को नष्ट करने वाले हैं"
+  },
+  {
+    "sanskrit": "भीमसेनसहायकृत्",
+    "japam": "ॐ भीमसेनसहायकृते नमः।",
+    "transliteration": "Om Bhimasenasahayakrite Namah",
+    "translation": "जो भीम की सहायता करने वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वदुःखहर",
+    "japam": "ॐ सर्वदुःखहराय नमः।",
+    "transliteration": "Om Sarvaduhkhaharaya Namah",
+    "translation": "जो समस्त कष्टों का निवारण करने वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वलोकचारी",
+    "japam": "ॐ सर्वलोकचारिणे नमः।",
+    "transliteration": "Om Sarvalokacharine Namah",
+    "translation": "जो समस्त लोकों में विचरण करने वाले हैं"
+  },
+  {
+    "sanskrit": "मनोजव",
+    "japam": "ॐ मनोजवाय नमः।",
+    "transliteration": "Om Manojavaya Namah",
+    "translation": "जो वायु के समान तीव्र गति वाले हैं"
+  },
+  {
+    "sanskrit": "पारिजातद्रुमूलस्थ",
+    "japam": "ॐ पारिजातद्रुमूलस्थाय नमः।",
+    "transliteration": "Om Parijatadrumulasthaya Namah",
+    "translation": "जो पारिजात के वृक्ष के नीचे निवास करने वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वमन्त्रस्वरूपवान्",
+    "japam": "ॐ सर्वमन्त्रस्वरूपवते नमः।",
+    "transliteration": "Om Sarvamantrasvarupavate Namah",
+    "translation": "जो समस्त मन्त्रों/स्तोत्रों के ज्ञाता एवं स्वामी हैं"
+  },
+  {
+    "sanskrit": "सर्वतन्त्रस्वरूपी",
+    "japam": "ॐ सर्वतन्त्रस्वरूपिणे नमः।",
+    "transliteration": "Om Sarvatantrasvarupine Namah",
+    "translation": "जो समस्त प्रकार के तन्त्रों के अधिपति हैं"
+  },
+  {
+    "sanskrit": "सर्वयन्त्रात्मक",
+    "japam": "ॐ सर्वयन्त्रात्मकाय नमः।",
+    "transliteration": "Om Sarvayantratmakaya Namah",
+    "translation": "जो समस्त प्रकार के यन्त्रों में विद्यमान हैं"
+  },
+  {
+    "sanskrit": "कपीश्वर",
+    "japam": "ॐ कपीश्वराय नमः।",
+    "transliteration": "Om Kapishvaraya Namah",
+    "translation": "जो वानरों के अधिपति हैं"
+  },
+  {
+    "sanskrit": "महाकाय",
+    "japam": "ॐ महाकायाय नमः।",
+    "transliteration": "Om Mahakayaya Namah",
+    "translation": "जो अत्यन्त विशाल देह वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वरोगहर",
+    "japam": "ॐ सर्वरोगहराय नमः।",
+    "transliteration": "Om Sarvarogaharaya Namah",
+    "translation": "जो समस्त रोगों से मुक्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "प्रभु",
+    "japam": "ॐ प्रभवे नमः।",
+    "transliteration": "Om Prabhave Namah",
+    "translation": "जो सम्पूर्ण सृष्टि में पूजे जाने वाले हैं"
+  },
+  {
+    "sanskrit": "बलसिद्धिकर",
+    "japam": "ॐ बलसिद्धिकराय नमः।",
+    "transliteration": "Om Balasiddhikaraya Namah",
+    "translation": "जो बल प्रदान करने वाले हैं"
+  },
+  {
+    "sanskrit": "सर्वविद्यासम्पत्प्रदायक",
+    "japam": "ॐ सर्वविद्यासम्पत्प्रदायकाय नमः।",
+    "transliteration": "Om Sarvavidyasampatpradayakaya Namah",
+    "translation": "जो नाना प्रकार की विद्या एवं सम्पत्ति प्रदान करने वाले हैं"
+  },
+  {
+    "sanskrit": "कपिसेनानायक",
+    "japam": "ॐ कपिसेनानायकाय नमः।",
+    "transliteration": "Om Kapisenanayakaya Namah",
+    "translation": "जो वानर सेना के प्रमुख हैं"
+  },
+
+  {
+    "sanskrit": "भविष्यच्चतुरानन",
+    "japam": "ॐ भविष्यच्चतुराननाय नमः।",
+    "transliteration": "Om Bhavishyachchaturananaya Namah",
+    "translation": "जो भविष्य की घटनाओं को जानने वाले अथवा भविष्यज्ञाता हैं"
+  },
+  {
+    "sanskrit": "कुमारब्रह्मचारी",
+    "japam": "ॐ कुमारब्रह्मचारिणे नमः।",
+    "transliteration": "Om Kumarabrahmacharine Namah",
+    "translation": "जो युवा एवं ब्रह्मचर्य व्रत का पालन करने वाले हैं"
+  },
+  {
+    "sanskrit": "रत्नकुण्डलदीप्तिमान्",
+    "japam": "ॐ रत्नकुण्डलदीप्तिमते नमः।",
+    "transliteration": "Om Ratnakundaladiptimate Namah",
+    "translation": "जो रत्न जड़ित स्वर्ण कुण्डल धारण करने वाले हैं"
+  },
+  {
+    "sanskrit": "सञ्चलद्बालसन्नद्धलम्बमानशिखोज्ज्वल",
+    "japam": "ॐ चञ्चलद्बालसन्नद्धलम्बमानशिखोज्ज्वलाय नमः।",
+    "transliteration": "Om Chanchaladbalasannaddhalambamanashikhojjvalaya Namah",
+    "translation": "जिनकी लम्बी पूँछ उनके सिर से भी ऊँची है"
+  },
+  {
+    "sanskrit": "गन्धर्वविद्यातत्वज्ञ",
+    "japam": "ॐ गन्धर्वविद्यातत्वज्ञाय नमः।",
+    "transliteration": "Om Gandharvavidyatatvajnaya Namah",
+    "translation": "जो गन्धर्व विद्या अर्थात् संगीत में पारंगत हैं"
+  },
+  {
+    "sanskrit": "महाबलपराक्रम",
+    "japam": "ॐ महाबलपराक्रमाय नमः।",
+    "transliteration": "Om Mahabalaparakramaya Namah",
+    "translation": "जिनमें अद्वितीय बल एवं साहस है"
+  },
+  {
+    "sanskrit": "कारागृहविमोक्ता",
+    "japam": "ॐ कारागृहविमोक्त्रे नमः।",
+    "transliteration": "Om Karagrihavimoktre Namah",
+    "translation": "जो कारागृह से मुक्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "शृङ्खलाबन्धमोचक",
+    "japam": "ॐ शृङ्खलाबन्धमोचकाय नमः।",
+    "transliteration": "Om Shrinkhalabandhamochakaya Namah",
+    "translation": "जो बेड़ियों अथवा कष्ट से मुक्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "सागरोत्तारक",
+    "japam": "ॐ सागरोत्तारकाय नमः।",
+    "transliteration": "Om Sagarottarakaya Namah",
+    "translation": "जो समुद्र को लाँघने वाले हैं"
+  },
+  {
+    "sanskrit": "प्राज्ञ",
+    "japam": "ॐ प्राज्ञाय नमः।",
+    "transliteration": "Om Prajnaya Namah",
+    "translation": "जो महान विद्वान हैं"
+  },
+  {
+    "sanskrit": "रामदूत",
+    "japam": "ॐ रामदूताय नमः।",
+    "transliteration": "Om Ramadutaya Namah",
+    "translation": "जो भगवान श्री राम के दूत हैं"
+  },
+  {
+    "sanskrit": "प्रतापवान्",
+    "japam": "ॐ प्रतापवते नमः।",
+    "transliteration": "Om Pratapavate Namah",
+    "translation": "जो अपनी वीरता एवं पराक्रम के लिये जाने जाते हैं"
+  },
+  {
+    "sanskrit": "वानर",
+    "japam": "ॐ वानराय नमः।",
+    "transliteration": "Om Vanaraya Namah",
+    "translation": "जो वानर के स्वरूप में विराजमान हैं"
+  },
+  {
+    "sanskrit": "केसरीसुत",
+    "japam": "ॐ केसरीसुताय नमः।",
+    "transliteration": "Om Kesarisutaya Namah",
+    "translation": "जो केसरी के पुत्र हैं"
+  },
+  {
+    "sanskrit": "सीताशोकनिवारक",
+    "japam": "ॐ सीताशोकनिवारकाय नमः।",
+    "transliteration": "Om Sitashokanivarakaya Namah",
+    "translation": "जो माता सीता के कष्ट का निवारण करने वाले हैं"
+  },
+  {
+    "sanskrit": "अञ्जनागर्भसम्भूत",
+    "japam": "ॐ अञ्जनागर्भसम्भूताय नमः।",
+    "transliteration": "Om Anjanagarbhasambhutaya Namah",
+    "translation": "जो माता अञ्जनी के गर्भ से जन्म लेने वाले हैं"
+  },
+  {
+    "sanskrit": "बालार्कसदृशानन",
+    "japam": "ॐ बालार्कसदृशाननाय नमः।",
+    "transliteration": "Om Balarkasadrishananaya Namah",
+    "translation": "जिनकी आभा उदीयमान सूर्य के समान है"
+  },
+  {
+    "sanskrit": "विभीषणप्रियकर",
+    "japam": "ॐ विभीषणप्रियकराय नमः।",
+    "transliteration": "Om Vibhishanapriyakaraya Namah",
+    "translation": "जो विभीषण के प्रिय हैं"
+  },
+  {
+    "sanskrit": "दशग्रीवकुलान्तक",
+    "japam": "ॐ दशग्रीवकुलान्तकाय नमः।",
+    "transliteration": "Om Dashagrivakulantakaya Namah",
+    "translation": "जो रावण के कुल का अन्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "लक्ष्मणप्राणदाता",
+    "japam": "ॐ लक्ष्मणप्राणदात्रे नमः।",
+    "transliteration": "Om Lakshmanapranadatre Namah",
+    "translation": "जो लक्ष्मण जी के प्राणों की रक्षा करने वाले हैं"
+  },
+
+  {
+    "sanskrit": "वज्रकाय",
+    "japam": "ॐ वज्रकायाय नमः।",
+    "transliteration": "Om Vajrakayaya Namah।",
+    "translation": "जिनका शरीर वज्र के समान कठोर एवं शक्तिशाली है"
+  },
+  {
+    "sanskrit": "महाद्युति",
+    "japam": "ॐ महाद्युतये नमः।",
+    "transliteration": "Om Mahadyutaye Namah।",
+    "translation": "जो अत्यन्त तेजस्वी हैं"
+  },
+  {
+    "sanskrit": "चिरञ्जीवी",
+    "japam": "ॐ चिरञ्जीविने नमः।",
+    "transliteration": "Om Chiranjivine Namah।",
+    "translation": "जो प्रत्येक युग में अजर-अमर रहने वाले हैं"
+  },
+  {
+    "sanskrit": "रामभक्त",
+    "japam": "ॐ रामभक्ताय नमः।",
+    "transliteration": "Om Ramabhaktaya Namah।",
+    "translation": "जो भगवान श्री राम के परम भक्त हैं"
+  },
+  {
+    "sanskrit": "दैत्यकार्यविघातक",
+    "japam": "ॐ दैत्यकार्यविघातकाय नमः।",
+    "transliteration": "Om Daityakaryavighatakaya Namah।",
+    "translation": "जो दैत्यों के समस्त कार्य निष्फल करने वाले हैं"
+  },
+  {
+    "sanskrit": "अक्षहन्ता",
+    "japam": "ॐ अक्षहन्त्रे नमः।",
+    "transliteration": "Om Akshahantre Namah।",
+    "translation": "जो रावण के पुत्र अक्षय का अन्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "काञ्चनाभ",
+    "japam": "ॐ काञ्चनाभाय नमः।",
+    "transliteration": "Om Kanchanabhaya Namah।",
+    "translation": "जिनकी काया स्वर्ण के समान आभा वाली है"
+  },
+  {
+    "sanskrit": "पञ्चवक्त्र",
+    "japam": "ॐ पञ्चवक्त्राय नमः।",
+    "transliteration": "Om Panchavaktraya Namah।",
+    "translation": "जिनके पाँच मुख हैं"
+  },
+  {
+    "sanskrit": "महातपस्",
+    "japam": "ॐ महातपसे नमः।",
+    "transliteration": "Om Mahatapase Namah।",
+    "translation": "जो अद्भुत तपस्या करने वाले हैं"
+  },
+  {
+    "sanskrit": "लङ्किनीभञ्जन",
+    "japam": "ॐ लङ्किनीभञ्जनाय नमः।",
+    "transliteration": "Om Lankinibhanjanaya Namah।",
+    "translation": "जो लंकिनी नामक राक्षसी का उद्धार करने वाले हैं"
+  },
+  {
+    "sanskrit": "श्रीमान्",
+    "japam": "ॐ श्रीमते नमः।",
+    "transliteration": "Om Shrimate Namah।",
+    "translation": "जो सम्पूर्ण सृष्टि में आदरणीय एवं पूजनीय हैं"
+  },
+  {
+    "sanskrit": "सिंहिकाप्राणभञ्जन",
+    "japam": "ॐ सिंहिकाप्राणभञ्जनाय नमः।",
+    "transliteration": "Om Simhikapranabhanjanaya Namah।",
+    "translation": "जो सिंहिका राक्षसी का अन्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "गन्धमादनशैलस्थ",
+    "japam": "ॐ गन्धमादनशैलस्थाय नमः।",
+    "transliteration": "Om Gandhamadanashailasthaya Namah।",
+    "translation": "जो गन्धमादन पर्वत पर निवास करने वाले हैं"
+  },
+  {
+    "sanskrit": "लङ्कापुरविदाहक",
+    "japam": "ॐ लङ्कापुरविदाहकाय नमः।",
+    "transliteration": "Om Lankapuravidahakaya Namah।",
+    "translation": "जो लङ्का दहन करने वाले हैं"
+  },
+  {
+    "sanskrit": "सुग्रीवसचिव",
+    "japam": "ॐ सुग्रीवसचिवाय नमः।",
+    "transliteration": "Om Sugrivasachivaya Namah।",
+    "translation": "जो सुग्रीव के मन्त्री हैं"
+  },
+  {
+    "sanskrit": "धीर",
+    "japam": "ॐ धीराय नमः।",
+    "transliteration": "Om Dhiraya Namah।",
+    "translation": "जो अत्यन्त वीर एवं साहसी हैं"
+  },
+  {
+    "sanskrit": "शूर",
+    "japam": "ॐ शूराय नमः।",
+    "transliteration": "Om Shuraya Namah।",
+    "translation": "जो निर्भीक एवं निडर हैं"
+  },
+  {
+    "sanskrit": "दैत्यकुलान्तक",
+    "japam": "ॐ दैत्यकुलान्तकाय नमः।",
+    "transliteration": "Om Daityakulantakaya Namah।",
+    "translation": "जो दैत्यों का अन्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "सुरार्चित",
+    "japam": "ॐ सुरार्चिताय नमः।",
+    "transliteration": "Om Surarchitaya Namah।",
+    "translation": "जो देवताओं द्वारा पूजे जाने वाले हैं"
+  },
+  {
+    "sanskrit": "महातेजस्",
+    "japam": "ॐ महातेजसे नमः।",
+    "transliteration": "Om Mahatejase Namah।",
+    "translation": "जिनमें असीमित तेज है"
+  },
+
+  {
+    "sanskrit": "रामचूडामणिप्रद",
+    "japam": "ॐ रामचूडामणिप्रदायकाय नमः।",
+    "transliteration": "Om Ramachudamanipradayakaya Namah।",
+    "translation": "जो भगवान श्री राम को सीता माता की चूड़ामणि प्रदान करने वाले हैं"
+  },
+  {
+    "sanskrit": "कामरूपी",
+    "japam": "ॐ कामरूपिणे नमः।",
+    "transliteration": "Om Kamarupine Namah।",
+    "translation": "जो इच्छानुसार कोई भी रूप धारण करने वाले हैं"
+  },
+  {
+    "sanskrit": "पिङ्गलाक्ष",
+    "japam": "ॐ पिङ्गलाक्षाय नमः।",
+    "transliteration": "Om Pingalakshaya Namah।",
+    "translation": "जो लाल एवं भूरे नेत्रों वाले हैं"
+  },
+  {
+    "sanskrit": "वार्धिमैनाकपूजित",
+    "japam": "ॐ वार्धिमैनाकपूजिताय नमः।",
+    "transliteration": "Om Vardhimainakapujitaya Namah।",
+    "translation": "जो समुद्र एवं मैनाक पर्वत द्वारा पूजे जाने वाले हैं"
+  },
+  {
+    "sanskrit": "कवलीकृतमार्तण्डमण्डल",
+    "japam": "ॐ कवलीकृतमार्तण्डमण्डलाय नमः।",
+    "transliteration": "Om Kavalikritamartandamandalaya Namah।",
+    "translation": "जो सूर्य को निगलने वाले हैं"
+  },
+
+  {
+    "sanskrit": "विजितेन्द्रिय",
+    "japam": "ॐ विजितेन्द्रियाय नमः।",
+    "transliteration": "Om Vijitendriyaya Namah।",
+    "translation": "जो समस्त इन्द्रियों को वश में करने वाले हैं"
+  },
+  {
+    "sanskrit": "रामसुग्रीवसन्धाता",
+    "japam": "ॐ रामसुग्रीवसन्धात्रे नमः।",
+    "transliteration": "Om Ramasugrivasandhatre Namah।",
+    "translation": "जो भगवान श्री राम एवं सुग्रीव में मित्रता करवाने वाले हैं"
+  },
+  {
+    "sanskrit": "महारावणमर्दन",
+    "japam": "ॐ महारावणमर्दनाय नमः।",
+    "transliteration": "Om Maharavanamardanaya Namah।",
+    "translation": "जो महारावण का संहार करने वाले हैं"
+  },
+  {
+    "sanskrit": "स्फटिकाभ",
+    "japam": "ॐ स्फटिकाभाय नमः।",
+    "transliteration": "Om Sphatikabhaya Namah।",
+    "translation": "जो स्फटिक मणि के समान आभा वाले हैं"
+  },
+  {
+    "sanskrit": "वागधीश",
+    "japam": "ॐ वागधीशाय नमः।",
+    "transliteration": "Om Vagadhishaya Namah।",
+    "translation": "जो वाणी के स्वामी हैं"
+  },
+  {
+    "sanskrit": "नवव्याकृतिपण्डित",
+    "japam": "ॐ नवव्याकृतिपण्डिताय नमः।",
+    "transliteration": "Om Navavyakritipanditaya Namah।",
+    "translation": "जो अत्यन्त कुशल विद्वान हैं"
+  },
+  {
+    "sanskrit": "चतुर्बाहु",
+    "japam": "ॐ चतुर्बाहवे नमः।",
+    "transliteration": "Om Chaturbahave Namah।",
+    "translation": "जो चार भुजाओं वाले हैं"
+  },
+  {
+    "sanskrit": "दीनबन्धु",
+    "japam": "ॐ दीनबन्धवे नमः।",
+    "transliteration": "Om Dinabandhave Namah।",
+    "translation": "जो दीन-हीनों के मित्र हैं"
+  },
+  {
+    "sanskrit": "महात्मा",
+    "japam": "ॐ महात्मने नमः।",
+    "transliteration": "Om Mahatmane Namah।",
+    "translation": "जो समस्त आत्माओं में श्रेष्ठ हैं"
+  },
+  {
+    "sanskrit": "भक्तवत्सल",
+    "japam": "ॐ भक्तवत्सलाय नमः।",
+    "transliteration": "Om Bhaktavatsalaya Namah।",
+    "translation": "जो भक्तों पर करुणा करने वाले हैं"
+  },
+  {
+    "sanskrit": "सञ्जीवननगाहर्ता",
+    "japam": "ॐ सञ्जीवननगाहर्त्रे नमः।",
+    "transliteration": "Om Sanjivananagahartre Namah।",
+    "translation": "जो सञ्जीवनी पर्वत लाने वाले हैं"
+  },
+  {
+    "sanskrit": "शुचि",
+    "japam": "ॐ शुचये नमः।",
+    "transliteration": "Om Shuchaye Namah।",
+    "translation": "जो परम पवित्र हैं"
+  },
+  {
+    "sanskrit": "वाग्मी",
+    "japam": "ॐ वाग्मिने नमः।",
+    "transliteration": "Om Vagmine Namah।",
+    "translation": "जो एक कुशल वक्ता हैं"
+  },
+  {
+    "sanskrit": "दृढव्रत",
+    "japam": "ॐ दृढव्रताय नमः।",
+    "transliteration": "Om Dridhavrataya Namah।",
+    "translation": "जो अपनी प्रतिज्ञा पर दृढ रहने वाले हैं"
+  },
+  {
+    "sanskrit": "कालनेमिप्रमथन",
+    "japam": "ॐ कालनेमिप्रमथनाय नमः।",
+    "transliteration": "Om Kalanemipramathanaya Namah।",
+    "translation": "जो कालनेमि दैत्य का अन्त करने वाले हैं"
+  },
+  {
+    "sanskrit": "हरिमर्कटमर्कट",
+    "japam": "ॐ हरिमर्कटमर्कटाय नमः।",
+    "transliteration": "Om Harimarkatamarkataya Namah।",
+    "translation": "जो वानरों के स्वामी हैं"
+  },
+  {
+    "sanskrit": "दान्त",
+    "japam": "ॐ दान्ताय नमः।",
+    "transliteration": "Om Dantaya Namah।",
+    "translation": "जो दान देने वाले हैं"
+  },
+  {
+    "sanskrit": "शान्त",
+    "japam": "ॐ शान्ताय नमः।",
+    "transliteration": "Om Shantaya Namah।",
+    "translation": "जो शान्त प्रकृति वाले हैं"
+  },
+  {
+    "sanskrit": "प्रसन्नात्मा",
+    "japam": "ॐ प्रसन्नात्मने नमः।",
+    "transliteration": "Om Prasannatmane Namah।",
+    "translation": "जो प्रसन्नचित्त रहने वाले हैं"
+  },
+  {
+    "sanskrit": "शतकण्ठमदापहृत्",
+    "japam": "ॐ शतकण्ठमदापहृते नमः।",
+    "transliteration": "Om Shatakanthamadapahrite Namah।",
+    "translation": "जो शतकण्ठ के अभिमान को नष्ट करने वाले हैं"
+  },
+  {
+    "sanskrit": "योगी",
+    "japam": "ॐ योगिने नमः।",
+    "transliteration": "Om Yogine Namah।",
+    "translation": "जो एक महान योगी हैं"
+  },
+  {
+    "sanskrit": "रामकथालोल",
+    "japam": "ॐ रामकथालोलाय नमः।",
+    "transliteration": "Om Ramakathalolaya Namah।",
+    "translation": "जो रामकथा सुनने को उत्सुक रहने वाले हैं"
+  },
+  {
+    "sanskrit": "सीतान्वेषणपण्डित",
+    "japam": "ॐ सीतान्वेषणपण्डिताय नमः।",
+    "transliteration": "Om Sitanveshanapanditaya Namah।",
+    "translation": "जो माता सीता को ज्ञानपूर्वक खोजने वाले हैं"
+  },
+  {
+    "sanskrit": "वज्रदंष्ट्र",
+    "japam": "ॐ वज्रदंष्ट्राय नमः।",
+    "transliteration": "Om Vajradamshtraya Namah।",
+    "translation": "जो वज्र के समान कठोर हैं"
+  },
+  {
+    "sanskrit": "वज्रनख",
+    "japam": "ॐ वज्रनखाय नमः।",
+    "transliteration": "Om Vajranakhaya Namah।",
+    "translation": "जो वज्र के समान सुदृढ़ नख अर्थात् नाखून वाले हैं"
+  },
+  {
+    "sanskrit": "रुद्रवीर्यसमुद्भव",
+    "japam": "ॐ रुद्रवीर्यसमुद्भवाय नमः।",
+    "transliteration": "Om Rudraviryasamudbhavaya Namah।",
+    "translation": "जो भगवान शिव के अवतार हैं"
+  },
+  {
+    "sanskrit": "इन्द्रजित्प्रहितामोघब्रह्मास्त्रविनिवारक",
+    "japam": "ॐ इन्द्रजित्प्रहितामोघब्रह्मास्त्रविनिवारकाय नमः।",
+    "transliteration": "Om Indrajitprahitamoghabrahmastravinivarakaya Namah।",
+    "translation": "जो इन्द्रजीत के ब्रह्मास्त्र के प्रभाव को दूर करने वाले हैं"
+  },
+  {
+    "sanskrit": "पार्थध्वजाग्रसंवासी",
+    "japam": "ॐ पार्थ ध्वजाग्रसंवासिने नमः।",
+    "transliteration": "Om Partha Dhvajagrasamvasine Namah।",
+    "translation": "जो अर्जुन के रथ की ध्वजा में निवास करते हैं"
+  },
+  {
+    "sanskrit": "शरपञ्जरभेदक",
+    "japam": "ॐ शरपञ्जरभेदकाय नमः।",
+    "transliteration": "Om Sharapanjarabhedakaya Namah।",
+    "translation": "जो शत्रुओं के कारागृह को भेदने वाले हैं"
+  },
+  {
+    "sanskrit": "दशबाहु",
+    "japam": "ॐ दशबाहवे नमः।",
+    "transliteration": "Om Dashabahave Namah।",
+    "translation": "जो दस भुजाओं वाले हैं"
+  },
+  {
+    "sanskrit": "लोकपूज्य",
+    "japam": "ॐ लोकपूज्याय नमः।",
+    "transliteration": "Om Lokapujyaya Namah।",
+    "translation": "जो समस्त लोकों में पूजे जाने वाले हैं"
+  },
+  {
+    "sanskrit": "जाम्बवत्प्रीतिवर्धन",
+    "japam": "ॐ जाम्बवत्प्रीतिवर्धनाय नमः।",
+    "transliteration": "Om Jambavatpritivardhanaya Namah।",
+    "translation": "जो जाम्बवन्त जी के अत्यन्त प्रिय हैं"
+  },
+  {
+    "sanskrit": "सीतासमेतश्रीरामपादसेवाधुरन्धर",
+    "japam": "ॐ सीतासमेतश्रीरामपादसेवाधुरन्धराय नमः।",
+    "transliteration": "Om Sitasametashriramapadasevadhurandharaya Namah।",
+    "translation": "जो देवी सीता सहित श्री राम जी के चरण कमलों की सेवा करने वाले हैं"
+  }
+]

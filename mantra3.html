@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>108 Namavali</title>
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            cinzel: ['"Cinzel Decorative"', 'serif'],
+            noto: ['"Noto Serif Devanagari"', 'serif'],
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="min-h-screen bg-gradient-to-b from-[#022c22] via-[#064e3b] to-[#012615] text-white relative overflow-x-hidden">
+
+  <!-- Floating aura background -->
+  <div class="absolute inset-0 -z-10 bg-[radial-gradient(800px_600px_at_50%_50%,rgba(132,204,22,0.12),transparent)]"></div>
+
+  <!-- Back/Menu button -->
+  <a id="menuBtn" href="index.html"
+   class="fixed top-4 left-4 z-50 transition-opacity duration-500 
+          flex items-center gap-2 px-5 py-2.5 rounded-full 
+          font-cinzel text-sm tracking-wide text-white/90 border border-white/30 
+          backdrop-blur-md bg-white/10 shadow-lg">
+   ⌂ Menu
+</a>
+
+
+  <!-- Title -->
+  <h1 class="text-center text-transparent bg-clip-text 
+             bg-gradient-to-r from-emerald-200 via-lime-300 to-amber-400 
+             font-cinzel font-bold text-3xl md:text-5xl mt-20 
+             drop-shadow-[0_0_25px_rgba(132,204,22,0.5)]">
+    १०८ नामावली • 108 Namavali
+  </h1>
+
+  <!-- Table Container -->
+  <div class="table-container mx-auto mt-10 max-w-6xl px-4">
+    <div class="overflow-hidden rounded-2xl shadow-2xl border border-emerald-300/30 backdrop-blur-lg bg-emerald-900/10">
+      <table class="w-full border-collapse text-left">
+        <thead>
+          <tr class="bg-gradient-to-r from-emerald-900/40 to-lime-900/40">
+            <th class="p-4 font-cinzel tracking-wider text-lime-200">Sr. No.</th>
+            <th class="p-4 font-noto text-lg text-emerald-200">Sanskrit</th>
+            <th class="p-4 font-cinzel tracking-wide text-emerald-200">Mantra Japam</th>
+            <th class="p-4 font-cinzel tracking-wide text-emerald-200">Translation</th>
+          </tr>
+        </thead>
+        <tbody id="mantraTableBody" class="divide-y divide-emerald-800/40">
+          <!-- Example row -->
+          <!-- <tr class="hover:bg-emerald-400/10 transition">
+            <td class="p-4 text-emerald-100">1</td>
+            <td class="p-4 font-noto text-lg text-lime-200">ॐ श्री हनुमते नमः</td>
+            <td class="p-4 text-emerald-100">108x</td>
+            <td class="p-4 text-emerald-100">Salutations to Hanuman</td>
+          </tr> -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Subtle aura sparkles -->
+  <div class="absolute top-1/3 left-1/4 w-2 h-2 rounded-full bg-lime-300/40 blur-sm animate-pulse"></div>
+  <div class="absolute top-2/3 right-1/5 w-3 h-3 rounded-full bg-emerald-400/40 blur-md animate-bounce"></div>
+
+  <script src="mantras3.js"></script>
+</body>
+</html>

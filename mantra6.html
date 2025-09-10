@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="mr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Maruti Stotra — Modern Presentation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Kalam&family=Noto+Sans+Devanagari:wght@400;700&family=Cinzel+Decorative:wght@600&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            darkblue: "#0B3D91",   // cold mountain blue
+            midblue: "#000000",    // icy frost blue
+            gold: "#FFD60A",       // bright snowlight
+            peach: "#F7F9F9",      // snowy mist white
+          },
+          fontFamily: {
+            devanagari: ['Noto Sans Devanagari', 'sans-serif'],
+            kalam: ['Kalam', 'cursive'],
+            cinzel: ['Cinzel Decorative', 'serif'],
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-darkblue text-peach font-devanagari min-h-screen flex flex-col items-center justify-center transition-colors duration-500 text-center">
+
+  <!-- Back button -->
+  <a id="menuBtn" href="index.html"
+   class="fixed top-4 left-4 z-50 transition-opacity duration-500 
+          flex items-center gap-2 px-5 py-2.5 rounded-full 
+          font-cinzel text-sm tracking-wide text-black/90 border border-white/30 
+          backdrop-blur-md bg-white/10 shadow-lg">
+   ⌂ Menu
+</a>
+
+  <div class="container mx-auto px-4 py-6 flex flex-col items-center justify-center max-w-4xl">
+
+    <!-- Header -->
+    <header class="flex flex-col items-center justify-center mb-6 border-b border-gold pb-4 gap-4 w-full">
+      <h1 class="text-3xl md:text-4xl font-bold font-kalam text-gold">मंगल कवच</h1>
+      <div class="flex gap-3">
+        <button id="increase" class="px-3 py-1 rounded-lg bg-midblue text-peach hover:bg-gold hover:text-darkblue transition">A+</button>
+        <button id="decrease" class="px-3 py-1 rounded-lg bg-midblue text-peach hover:bg-gold hover:text-darkblue transition">A-</button>
+      </div>
+    </header>
+
+    <!-- Main card -->
+    <main id="content" class="bg-peach text-darkblue rounded-2xl shadow-xl p-6 md:p-10 leading-relaxed space-y-3 text-center transition-colors duration-500 w-full">
+      
+      <h2 class="text-2xl font-bold font-kalam text-midblue">|| अथ मंगल कवचम् ||</h2>
+      <p>अस्य श्री मंगलकवचस्तोत्रमंत्रस्य कश्यप ऋषिः।</p>
+      <p>अनुष्टुप् छन्दः। अङ्गारको देवता।</p>
+      <p>भौम पीड़ा परिहारार्थं जपे विनियोगः।</p>
+
+      <p>रक्तांबरो रक्तवपुः किरीटी चतुर्भुजो मेषगमो गदाभृत्।</p>
+      <p>धरासुतः शक्तिधरश्च शूली सदा ममस्याद्वरदः प्रशांतः ॥</p>
+
+      <p>अंगारकः शिरो रक्षेन्मुखं वै धरणीसुतः।</p>
+      <p>श्रवणौ रक्तांबरः पातु नेत्रे मे रक्तलोचनः ॥</p>
+
+      <p>नासां शक्तिधरः पातु मुखं मे रक्तलोचनः।</p>
+      <p>भुजौ मे रक्तमाली च हस्तौ शक्तिधरस्तथा ॥</p>
+
+      <p>वक्षः पातु वरांगश्च हृदयं पातु लोहितः।</p>
+      <p>कटिं मे ग्रहराजश्च मुखं चैव धरासुतः ॥</p>
+
+      <p>जानुजंघे कुजः पातु पादौ भक्तप्रियः सदा।</p>
+      <p>सर्वण्यन्यानि चांगानि रक्षेन्मे मेषवाहनः ॥</p>
+
+      <p>या इदं कवचं दिव्यं सर्वशत्रु निवारणम्।</p>
+      <p>भूतप्रेतपिशाचानां नाशनं सर्व सिद्धिदम् ॥</p>
+
+      <p>सर्वरोगहरं चैव सर्वसंपत्प्रदं शुभम्।</p>
+      <p>भुक्तिमुक्तिप्रदं नृणां सर्वसौभाग्यवर्धनम्।</p>
+      <p>रोगबंधनविमोक्षं च सत्यमेतन्न संशयः ॥</p>
+
+      <h2 class="text-xl font-bold font-kalam text-midblue mt-6">॥ इति श्रीमार्कण्डेयपुराणे मंगलकवचं संपूर्णं ॥</h2>
+    </main>
+  </div>
+
+  <!-- Script inside HTML -->
+  <script>
+    const content = document.getElementById("content");
+    const incBtn = document.getElementById("increase");
+    const decBtn = document.getElementById("decrease");
+
+    let fontSize = 18; 
+    content.style.fontSize = fontSize + "px";
+
+    // Font Increase
+    incBtn.addEventListener("click", () => {
+      fontSize += 2;
+      content.style.fontSize = fontSize + "px";
+    });
+
+    // Font Decrease
+    decBtn.addEventListener("click", () => {
+      if (fontSize > 12) {
+        fontSize -= 2;
+        content.style.fontSize = fontSize + "px";
+      }
+    });
+
+
+    const menuBtn = document.querySelector("#menuBtn");
+let lastScrollTop = 0;
+
+window.addEventListener("scroll", () => {
+  let st = window.scrollY;
+
+  if (st > lastScrollTop) {
+    // Scroll down → hide
+    menuBtn.classList.add("opacity-0", "pointer-events-none");
+  } else {
+    // Scroll up → show
+    menuBtn.classList.remove("opacity-0", "pointer-events-none");
+  }
+
+  lastScrollTop = st <= 0 ? 0 : st;
+});
+  </script>
+</body>
+</html>
